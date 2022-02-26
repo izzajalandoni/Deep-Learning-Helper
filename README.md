@@ -1,8 +1,6 @@
 # Deep-Learning-Helper
 Helper notes from Dr. Rowel Atienza's <a href="https://github.com/roatienza/Deep-Learning-Experiments">Deep Learning Lessons</a>.
 
----
-
 ### Mini Notes
 ##### 1. Working with **Jupyter Notebook**
 
