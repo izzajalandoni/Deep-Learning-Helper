@@ -15,12 +15,12 @@ Notebook is a creative way of presenting your project outputs as it allows users
 
 Below is a list of experiments / demos regarding specific topics, done on Jupyter Notebook. 
 
-| Topic |      |      |
-|-------|------|------|
-| Timm Demo  | Soon |      |
-| HuggingFace Demo | Soon |      |
-| GradIO Demo | Soon |       |
-| Streamlit Demo | Soon |      |
+| Topic |      |
+|-------|------|
+| Timm Demo  | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/timm_demo.ipynb">Jupyter</a> |      |
+| HuggingFace Demo | Soon |
+| GradIO Demo | Soon |
+| Streamlit Demo | Soon |
 
 ---
 
