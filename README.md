@@ -15,7 +15,7 @@ Notebook is a creative way of presenting your project outputs as it allows users
 
 Below is a list of experiments / demos regarding specific topics, done on Jupyter Notebook. 
 
-| Topic | ]    |      |
+| Topic |      |      |
 |-------|------|------|
 | Timm Demo  | Soon |      |
 | HuggingFace Demo | Soon |      |
