@@ -17,8 +17,8 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 
 | Topic |      |
 |-------|------|
-| Timm Demo  | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/timm_demo.ipynb">Jupyter</a> |      |
-| HuggingFace Demo | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/huggingface_demo.ipynb">Jupyter</a> |
+| Timm Demo  | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/Lecture0-Toolkits/timm_demo.ipynb">Jupyter</a> |      |
+| HuggingFace Demo | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/Lecture0-Toolkits/huggingface_demo.ipynb">Jupyter</a> |
 
 ---
 
