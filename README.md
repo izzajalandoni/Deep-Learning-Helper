@@ -1,6 +1,12 @@
 # Deep-Learning-Helper
 Helper notes from Dr. Rowel Atienza's <a href="https://github.com/roatienza/Deep-Learning-Experiments">Deep Learning Lessons</a>.
 
+For any questions, please reach us through the following email addresses:
+  - izza.jalandoni@eee.upd.edu.ph
+  - mark.vincent.ty@eee.upd.edu.ph
+
+---
+
 ### Notes
 **1. Setting up *Anaconda* on Ubuntu/Linux** [<a href="https://raw.githubusercontent.com/izzajalandoni/Deep-Learning-Helper/main/Notes/Setting-up%20Anaconda%20for%20Ubuntu_Linux.pdf">PDF</a>]
 
