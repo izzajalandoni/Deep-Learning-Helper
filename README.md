@@ -28,7 +28,7 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 
 | Topic |      |
 |-------|------|
-| Numpy Demo | Soon |
+| Numpy Demo | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/Lecture0-Toolkits/numpy_demo.ipynb">Jupyter</a> |
 | Einsum Demo | Soon |
 | Einops Demo | Soon |
 | Timm Demo  | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/Lecture0-Toolkits/timm_demo.ipynb">Jupyter</a> |      |
