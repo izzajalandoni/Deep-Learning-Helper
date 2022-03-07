@@ -24,13 +24,13 @@ Notebook is a creative way of presenting your project outputs as it allows users
 
 ### Experiments / Demos
 
-Below is a list of experiments / demos regarding specific topics, done on Jupyter Notebook. 
+Below is a list of experiments / demos regarding specific topics, done on Jupyter Notebook.
 
 | Topic |      |
 |-------|------|
 | Numpy Demo | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/Lecture0-Toolkits/numpy_demo.ipynb">Jupyter</a> |
-| Einsum Demo | Soon |
-| Einops Demo | Soon |
+| Einsum Demo | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/Lecture0-Toolkits/einsum.ipynb">Jupyter</a> |
+| Einops Demo | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/Lecture0-Toolkits/einops.ipynb">Jupyter</a> |
 | Timm Demo  | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/Lecture0-Toolkits/timm_demo.ipynb">Jupyter</a> |      |
 | HuggingFace Demo | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/Lecture0-Toolkits/huggingface_demo.ipynb">Jupyter</a> |
 
