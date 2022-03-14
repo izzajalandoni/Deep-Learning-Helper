@@ -26,14 +26,14 @@ Notebook is a creative way of presenting your project outputs as it allows users
 
 Below is a list of experiments / demos regarding specific topics, done on Jupyter Notebook.
 
-| Topic | Demo | Exercise |
-|-------|------|----------|
-| Numpy | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/Lecture0-Toolkits/numpy_demo.ipynb">Jupyter</a> |
-| Einsum | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/Lecture0-Toolkits/einsum.ipynb">Jupyter</a> |
-| Einops | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/Lecture0-Toolkits/einops.ipynb">Jupyter</a> |
-| Timm | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/Lecture0-Toolkits/timm_demo.ipynb">Jupyter</a> |      |
-| HuggingFace | <a href="https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/Lecture0-Toolkits/huggingface_demo.ipynb">Model Jupyter</a> |
-|             | <a>Datasets Jupyter</a>|
+| <b>Toolkits</b> |                                                   |
+|-----------------|---------------------------------------------------|
+|      Numpy      | [Jupyter](Lecture0-Toolkits/numpy_demo.ipynb)     |
+|      Einsum     | [Jupyter](Lecture0-Toolkits/einsum_demo.ipynb)    |
+|      Einops     | [Jupyter](Lecture0-Toolkits/einops_demo.ipynb)    |
+|      Timm       | [Jupyter](Lecture0-Toolkits/timm_demo.ipynb)      |
+|   HuggingFace   | [Model](Lecture0-Toolkits/huggingface_demo.ipynb) |
+|                 | [Dataset](Lecture0-Toolkits/dataset_demo.ipynb)   |
 
 ---
 
