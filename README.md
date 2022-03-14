@@ -26,14 +26,15 @@ Notebook is a creative way of presenting your project outputs as it allows users
 
 Below is a list of experiments / demos regarding specific topics, done on Jupyter Notebook.
 
-| <b>Toolkits</b> |                                                   |
-|-----------------|---------------------------------------------------|
-|      Numpy      | [Jupyter](Lecture0-Toolkits/numpy_demo.ipynb)     |
-|      Einsum     | [Jupyter](Lecture0-Toolkits/einsum_demo.ipynb)    |
-|      Einops     | [Jupyter](Lecture0-Toolkits/einops_demo.ipynb)    |
-|      Timm       | [Jupyter](Lecture0-Toolkits/timm_demo.ipynb)      |
-|   HuggingFace   | [Model](Lecture0-Toolkits/huggingface_demo.ipynb) |
-|                 | [Dataset](Lecture0-Toolkits/dataset_demo.ipynb)   |
+| <b>Toolkits</b> |                                                          |  |
+|-----------------|----------------------------------------------------------|--|
+|      Numpy      | &nbsp; [Jupyter](Lecture0-Toolkits/numpy_demo.ipynb)     |  |
+|      Einsum     | &nbsp; [Jupyter](Lecture0-Toolkits/einsum_demo.ipynb)    |  |
+|      Einops     | &nbsp; [Jupyter](Lecture0-Toolkits/einops_demo.ipynb)    |  |
+|      Timm       | &nbsp; [Jupyter](Lecture0-Toolkits/timm_demo.ipynb)      |  |
+|   HuggingFace   | &nbsp; [Model](Lecture0-Toolkits/huggingface_demo.ipynb) |  |
+|                 | &nbsp; [Dataset](Lecture0-Toolkits/dataset_demo.ipynb)   |  |
+|     Gradio      | &nbsp; Soon                                              | [Spaces sample](https://huggingface.co/spaces/izzajalandoni/dialogpt-tagalog) |
 
 ---
 
