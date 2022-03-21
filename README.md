@@ -8,7 +8,7 @@ For any questions, please reach us through the following email addresses:
 ---
 
 ### Notes
-**1. Setting up *Anaconda* on Ubuntu/Linux** [<a href="https://raw.githubusercontent.com/izzajalandoni/Deep-Learning-Helper/main/Notes/Setting-up%20Anaconda%20for%20Ubuntu_Linux.pdf">PDF</a>]
+**1. Setting up *Anaconda* on Ubuntu/Linux** [[PDF](Notes/Setting-up%20Anaconda%20for%20Ubuntu_Linux.pdf)]
 
 
 **2. Working with *Jupyter Notebook***
@@ -20,21 +20,24 @@ Notebook is a creative way of presenting your project outputs as it allows users
   - Adding virtual environment to jupyter: `python -m ipykernel install --user --name=<env_name>`
   - Run notebook: `jupyter notebook`
 
+**3. Creating your *Hugging Face Space*** [[PDF](Notes/HuggingFace_Spaces.pdf)]
+
+
 ---
 
 ### Experiments / Demos
 
 Below is a list of experiments / demos regarding specific topics, done on Jupyter Notebook.
 
-| <b>Toolkits</b> |                                                          |  |
-|-----------------|----------------------------------------------------------|--|
-|      Numpy      | &nbsp; [Jupyter](Lecture0-Toolkits/numpy_demo.ipynb)     |  |
-|      Einsum     | &nbsp; [Jupyter](Lecture0-Toolkits/einsum_demo.ipynb)    |  |
-|      Einops     | &nbsp; [Jupyter](Lecture0-Toolkits/einops_demo.ipynb)    |  |
-|      Timm       | &nbsp; [Jupyter](Lecture0-Toolkits/timm_demo.ipynb)      |  |
-|   HuggingFace   | &nbsp; [Model](Lecture0-Toolkits/huggingface_demo.ipynb) |  |
-|                 | &nbsp; [Dataset](Lecture0-Toolkits/dataset_demo.ipynb)   |  |
-|     Gradio      | &nbsp; Soon                                              | [Spaces sample](https://huggingface.co/spaces/izzajalandoni/dialogpt-tagalog) |
+| <b>Toolkits</b> |                                                   |    |
+|:----------------|:-------------------------------------------------:|:--:|
+|      Numpy      | [Jupyter](Lecture0-Toolkits/numpy_demo.ipynb)     |    |
+|      Einsum     | [Jupyter](Lecture0-Toolkits/einsum_demo.ipynb)    |    |
+|      Einops     | [Jupyter](Lecture0-Toolkits/einops_demo.ipynb)    |    |
+|      Timm       | [Jupyter](Lecture0-Toolkits/timm_demo.ipynb)      |    |
+|   HuggingFace   | [Model](Lecture0-Toolkits/huggingface_demo.ipynb) |    |
+|                 | [Dataset](Lecture0-Toolkits/dataset_demo.ipynb)   |    |
+| HF Space/Gradio | [Spaces sample](https://huggingface.co/spaces/izzajalandoni/dialogpt-tagalog) | [Notes](Notes/HuggingFace_Spaces.pdf) |
 
 ---
 
