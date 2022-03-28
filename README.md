@@ -29,15 +29,22 @@ Notebook is a creative way of presenting your project outputs as it allows users
 
 Below is a list of experiments / demos regarding specific topics, done on Jupyter Notebook.
 
-| <b>Toolkits</b> |                                                   |    |
-|:----------------|:-------------------------------------------------:|:--:|
-|      Numpy      | [Jupyter](Lecture0-Toolkits/numpy_demo.ipynb)     |    |
-|      Einsum     | [Jupyter](Lecture0-Toolkits/einsum_demo.ipynb)    |    |
-|      Einops     | [Jupyter](Lecture0-Toolkits/einops_demo.ipynb)    |    |
-|      Timm       | [Jupyter](Lecture0-Toolkits/timm_demo.ipynb)      |    |
-|   HuggingFace   | [Model](Lecture0-Toolkits/huggingface_demo.ipynb) |    |
-|                 | [Dataset](Lecture0-Toolkits/dataset_demo.ipynb)   |    |
-| HF Space/Gradio | [Spaces sample](https://huggingface.co/spaces/izzajalandoni/dialogpt-tagalog) | [Notes](Notes/HuggingFace_Spaces.pdf) |
+|   <b>Toolkits</b>     |                                          |    |
+|:----------------------|:----------------------------------------:|:--:|
+| Numpy                 | [Jupyter](Toolkits/numpy_demo.ipynb)     |    |
+| Einsum                | [Jupyter](Toolkits/einsum_demo.ipynb)    |    |
+| Einops                | [Jupyter](Toolkits/einops_demo.ipynb)    |    |
+| Timm                  | [Jupyter](Toolkits/timm_demo.ipynb)      |    |
+| HuggingFace           | [Model](Toolkits/huggingface_demo.ipynb) |    |
+|                       | [Dataset](Datasets/dataset_demo.ipynb)   |    |
+| HF Space/Gradio       | [Spaces sample](https://huggingface.co/spaces/izzajalandoni/dialogpt-tagalog) | [Notes](Notes/HuggingFace_Spaces.pdf) |
+| Wandb                 | [Jupyter](toolkits/wandb_demo.ipynb)     |    |
+| <b>Datloader</b>      | [Jupyter](Datasets/dataset_demo.ipynb)   |    |
+| <b>Building Blocks</b>|                                          |    |
+| MLP                   | Soon                                     |    |
+| CNN                   | Soon                                     |    |
+| RNN                   | Soon                                     |    |
+| Transformers          | Soon                                     |    |
 
 ---
 
