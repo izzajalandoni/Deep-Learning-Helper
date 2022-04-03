@@ -44,8 +44,8 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | Pytorch Lightning     | [Jupyter](SupervisedLearning/mlp_lightning_demo.ipynb)|    |
 | Loss Functions        | Soon                                     |    |
 | <b>Building Blocks</b>|                                          |    |
-| MLP                   | [Jupyter](BuildingBlocks/mlp_demo.ipynb) | [Notes](Notes/NN%20IO%20Shape%20Calculation.pdf) |
-| CNN                   | [Jupyter](BuildingBlocks/cnn_demo.ipynb) |    |
+| MLP                   | [Jupyter](BuildingBlocks/mlp_demo.ipynb) |    |
+| CNN                   | [Jupyter](BuildingBlocks/cnn_demo.ipynb) | [Notes](Notes/NN%20IO%20Shape%20Calculation.pdf) |
 | RNN/LSTM              | Soon                                     |    |
 | Transformers          | Soon                                     |    |
 
