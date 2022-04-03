@@ -38,12 +38,15 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | HuggingFace           | [Model](Toolkits/huggingface_demo.ipynb) |    |
 |                       | [Dataset](Datasets/dataset_demo.ipynb)   |    |
 | HF Space/Gradio       | [Spaces sample](https://huggingface.co/spaces/izzajalandoni/dialogpt-tagalog) | [Notes](Notes/HuggingFace_Spaces.pdf) |
-| Wandb                 | [Jupyter](toolkits/wandb_demo.ipynb)     |    |
+| Wandb                 | [Jupyter](Toolkits/wandb_demo.ipynb)     |    |
 | <b>Dataloader</b>     | [Jupyter](Datasets/dataset_demo.ipynb)   |    |
+| <b>Supervised Learning</b>|                                      |    |
+| Pytorch Lightning     | [Jupyter](SupervisedLearning/mlp_lightning_demo.ipynb)|    |
+| Loss Functions        | Soon                                     |    |
 | <b>Building Blocks</b>|                                          |    |
-| MLP                   | Soon                                     |    |
-| CNN                   | Soon                                     |    |
-| RNN                   | Soon                                     |    |
+| MLP                   | [Jupyter](BuildingBlocks/mlp_demo.ipynb) |    |
+| CNN                   | [Jupyter](BuildingBlocks/cnn_demo.ipynb) |    |
+| RNN/LSTM              | Soon                                     |    |
 | Transformers          | Soon                                     |    |
 
 ---
