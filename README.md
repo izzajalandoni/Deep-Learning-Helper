@@ -47,7 +47,7 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | <b>Building Blocks</b>|                                          |    |
 | MLP                   | [Jupyter](BuildingBlocks/mlp_demo.ipynb) | [Notes](Notes/MultiLayer_Perceptron(MLP).pdf)    |
 | CNN                   | [Jupyter](BuildingBlocks/cnn_demo.ipynb) | [Notes](Notes/NN%20IO%20Shape%20Calculation.pdf) |
-| RNN/LSTM              | Soon                                     |    |
+| RNN/LSTM              | [Jupyter](BuildingBlocks/rnn_demo.ipynb) |    |
 | Transformers          | Soon                                     |    |
 
 ---
