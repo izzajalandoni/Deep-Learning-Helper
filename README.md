@@ -42,7 +42,7 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | <b>Dataloader</b>     | [Jupyter](Datasets/dataset_demo.ipynb)   |    |
 | <b>Supervised Learning</b>|                                      |    |
 | Pytorch Lightning     | [Jupyter](SupervisedLearning/mlp_lightning_demo.ipynb)|    |
-| Loss Functions        | Soon                                     |    |
+| Loss Functions        | [Jupyter](SupervisedLearning/lossfunctions.ipynb)                                     |    |
 | <b>Building Blocks</b>|                                          |    |
 | MLP                   | [Jupyter](BuildingBlocks/mlp_demo.ipynb) |    |
 | CNN                   | [Jupyter](BuildingBlocks/cnn_demo.ipynb) | [Notes](Notes/NN%20IO%20Shape%20Calculation.pdf) |
