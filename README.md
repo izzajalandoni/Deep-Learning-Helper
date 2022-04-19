@@ -42,11 +42,12 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | <b>Dataloader</b>     | [Jupyter](Datasets/dataset_demo.ipynb)   |    |
 | <b>Supervised Learning</b>|                                      |    |
 | Pytorch Lightning     | [Jupyter](SupervisedLearning/mlp_lightning_demo.ipynb)|    |
-| Loss Functions        | [Jupyter](SupervisedLearning/lossfunctions.ipynb)                                     |    |
+| Loss Functions        | [Jupyter](SupervisedLearning/lossfunctions.ipynb)     |    |
+| Object Detection      | [Jupyter](SupervisedLearning/object_detection.ipynb)  |    |
 | <b>Building Blocks</b>|                                          |    |
-| MLP                   | [Jupyter](BuildingBlocks/mlp_demo.ipynb) |    |
+| MLP                   | [Jupyter](BuildingBlocks/mlp_demo.ipynb) | [Notes](Notes/MultiLayer_Perceptron(MLP).pdf)    |
 | CNN                   | [Jupyter](BuildingBlocks/cnn_demo.ipynb) | [Notes](Notes/NN%20IO%20Shape%20Calculation.pdf) |
-| RNN/LSTM              | Soon                                     |    |
+| RNN/LSTM              | [Jupyter](BuildingBlocks/rnn_demo.ipynb) |    |
 | Transformers          | Soon                                     |    |
 
 ---
