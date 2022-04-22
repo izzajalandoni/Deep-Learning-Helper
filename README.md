@@ -23,6 +23,9 @@ Notebook is a creative way of presenting your project outputs as it allows users
 **3. Creating your *Hugging Face Space*** [[PDF](Notes/HuggingFace_Spaces.pdf)]
 
 **4. Using *Google Colab***
+
+All python scripts should be on your Google Drive where your Notebooks are mounted.
+
   - Using colab to execute a python script: [Colab Notebook](https://colab.research.google.com/drive/1NNtgPH_FETz9pX8tZ3DfMjTtZdMCUZBJ?usp=sharing)
   - Using colab on your main project: [Colab Notebook](https://colab.research.google.com/drive/1Dx1LxDX-_wvBcw_VVcr368PfOrzJJzai?usp=sharing)
 
