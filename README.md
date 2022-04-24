@@ -50,6 +50,9 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | Pytorch Lightning     | [Jupyter](SupervisedLearning/mlp_lightning_demo.ipynb)|    |
 | Loss Functions        | [Jupyter](SupervisedLearning/lossfunctions.ipynb)     |    |
 | Object Detection      | [Jupyter](SupervisedLearning/object_detection.ipynb)  |    |
+| <b>Online GPUs</b>    |                                          |    |
+| Google Colab          | [Colab](https://colab.research.google.com/drive/1BrDMmpD4zP6LT1TI3lTgknjQ99j3Q6JR?usp=sharing) |    |
+| Kaggle                | Soon                                     |    |
 | <b>Building Blocks</b>|                                          |    |
 | MLP                   | [Jupyter](BuildingBlocks/mlp_demo.ipynb) | [Notes](Notes/MultiLayer_Perceptron(MLP).pdf)    |
 | CNN                   | [Jupyter](BuildingBlocks/cnn_demo.ipynb) | [Notes](Notes/NN%20IO%20Shape%20Calculation.pdf) |
