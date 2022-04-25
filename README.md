@@ -22,6 +22,12 @@ Notebook is a creative way of presenting your project outputs as it allows users
 
 **3. Creating your *Hugging Face Space*** [[PDF](Notes/HuggingFace_Spaces.pdf)]
 
+**4. Using *Google Colab***
+
+All python scripts should be on your Google Drive where your Notebooks are mounted.
+
+  - Using colab to execute a python script: [Colab Notebook](https://colab.research.google.com/drive/1NNtgPH_FETz9pX8tZ3DfMjTtZdMCUZBJ?usp=sharing)
+  - Using colab on your main project: [Colab Notebook](https://colab.research.google.com/drive/1Dx1LxDX-_wvBcw_VVcr368PfOrzJJzai?usp=sharing)
 
 ---
 
@@ -44,6 +50,9 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | Pytorch Lightning     | [Jupyter](SupervisedLearning/mlp_lightning_demo.ipynb)|    |
 | Loss Functions        | [Jupyter](SupervisedLearning/lossfunctions.ipynb)     |    |
 | Object Detection      | [Jupyter](SupervisedLearning/object_detection.ipynb)  |    |
+| <b>Online GPUs</b>    |                                          |    |
+| Google Colab          | [Colab](https://colab.research.google.com/drive/1BrDMmpD4zP6LT1TI3lTgknjQ99j3Q6JR?usp=sharing) |    |
+| Kaggle                | Soon                                     |    |
 | <b>Building Blocks</b>|                                          |    |
 | MLP                   | [Jupyter](BuildingBlocks/mlp_demo.ipynb) | [Notes](Notes/MultiLayer_Perceptron(MLP).pdf)    |
 | CNN                   | [Jupyter](BuildingBlocks/cnn_demo.ipynb) | [Notes](Notes/NN%20IO%20Shape%20Calculation.pdf) |
