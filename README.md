@@ -52,7 +52,7 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | Object Detection      | [Jupyter](SupervisedLearning/object_detection.ipynb)  |    |
 | <b>Online GPUs</b>    |                                          |    |
 | Google Colab          | [Colab](https://colab.research.google.com/drive/1VCg5k-ENTRRJ4ofZGlR1DZhDXqpoyw0V?usp=sharing) |    |
-| Kaggle                | Soon                                     |    |
+| Kaggle                | [Jupyter](https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/SupervisedLearning/kaggle_gpu.ipynb)                                     |    |
 | <b>Building Blocks</b>|                                          |    |
 | MLP                   | [Jupyter](BuildingBlocks/mlp_demo.ipynb) | [Notes](Notes/MultiLayer_Perceptron(MLP).pdf)    |
 | CNN                   | [Jupyter](BuildingBlocks/cnn_demo.ipynb) | [Notes](Notes/NN%20IO%20Shape%20Calculation.pdf) |
