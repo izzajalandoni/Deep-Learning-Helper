@@ -45,7 +45,7 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 |                       | [Dataset](Datasets/dataset_demo.ipynb)   |    |
 | HF Space/Gradio       | [Spaces sample](https://huggingface.co/spaces/izzajalandoni/dialogpt-tagalog) | [Notes](Notes/HuggingFace_Spaces.pdf) |
 | Wandb                 | [Jupyter](Toolkits/wandb_demo.ipynb)     |    |
-| <b>Dataloader</b>     | [Jupyter](Datasets/dataset_demo.ipynb)   |    |
+| <b>Dataloader</b>     | [Jupyter](Datasets/dataloader.ipynb)     |    |
 | <b>Supervised Learning</b>|                                      |    |
 | Pytorch Lightning     | [Jupyter](SupervisedLearning/mlp_lightning_demo.ipynb)|    |
 | Loss Functions        | [Jupyter](SupervisedLearning/lossfunctions.ipynb)     |    |
