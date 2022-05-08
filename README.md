@@ -55,7 +55,8 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | Kaggle                | [Jupyter](https://github.com/izzajalandoni/Deep-Learning-Helper/blob/main/SupervisedLearning/kaggle_gpu.ipynb)                                     |    |
 | <b>Building Blocks</b>|                                          |    |
 | MLP                   | [Jupyter](BuildingBlocks/mlp_demo.ipynb) | [Notes](Notes/MultiLayer_Perceptron(MLP).pdf)    |
-| CNN                   | [Jupyter](BuildingBlocks/cnn_demo.ipynb) | [Notes](Notes/NN%20IO%20Shape%20Calculation.pdf) |
+| CNN                   | [CNN Cifar10](BuildingBlocks/cnn_demo.ipynb) | [Notes](Notes/NN%20IO%20Shape%20Calculation.pdf) |
+|                       | [Filters, FMaps](BuildingBlocks/cnn_features.ipynb) |    |
 | RNN/LSTM              | [Jupyter](BuildingBlocks/rnn_demo.ipynb) |    |
 | Transformers          | Soon                                     |    |
 
