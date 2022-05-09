@@ -59,6 +59,9 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 |                       | [Filters, FMaps](BuildingBlocks/cnn_features.ipynb) |    |
 | RNN/LSTM              | [Jupyter](BuildingBlocks/rnn_demo.ipynb) |    |
 | Transformers          | Soon                                     |    |
+| <b>Backpropagation</b>| Soon                                     |    |
+| <b>Optimization</b>   | Soon                                     |    |
+| <b>Regularization</b> | Soon                                     |    |
 
 ---
 
