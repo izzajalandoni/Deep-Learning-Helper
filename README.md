@@ -58,7 +58,7 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | CNN                   | [CNN Cifar10](BuildingBlocks/cnn_demo.ipynb) | [Notes](Notes/NN%20IO%20Shape%20Calculation.pdf) |
 |                       | [Filters, FMaps](BuildingBlocks/cnn_features.ipynb) |    |
 | RNN/LSTM              | [Jupyter](BuildingBlocks/rnn_demo.ipynb) |    |
-| Transformers          | Soon                                     |    |
+| Transformers          | [Jupyter](BuildingBlocks/vit_train.ipynb) |    |
 | <b>Backpropagation</b>| Soon                                     |    |
 | <b>Optimization</b>   | Soon                                     |    |
 | <b>Regularization</b> | Soon                                     |    |
