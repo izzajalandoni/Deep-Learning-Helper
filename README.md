@@ -68,4 +68,5 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 
 ### Useful YouTube Tutorial Links
 
+- Dr. Atienza's Deep Learning Course: <a href="https://www.youtube.com/playlist?list=PLnh4yg9KUmuPYXl_14Bq-Q2h5a_5PZwYt">Youtube Playlist</a>
 - Stanford's CS231n Computer Vision Basics: <a href="https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv">YouTube Playlist</a>
