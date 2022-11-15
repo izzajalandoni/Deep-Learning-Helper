@@ -4,9 +4,11 @@ For any questions, please reach us through the following email addresses:
   - izza.jalandoni@eee.upd.edu.ph
   - mark.vincent.ty@eee.upd.edu.ph
 
+Each folder (Deep Learning and Machine Learning) is initialized with a separate `README`. Please navigate to the appropriate folder for specific topics.
+
 ---
 
-### Notes
+### General Helper Notes
 **1. Setting up *Anaconda* on Ubuntu/Linux** [[PDF](Notes/Setting-up%20Anaconda%20for%20Ubuntu_Linux.pdf)]
 
 
@@ -28,6 +30,3 @@ All python scripts should be on your Google Drive where your Notebooks are mount
   - Using colab to execute a python script: [Colab Notebook](https://colab.research.google.com/drive/1NNtgPH_FETz9pX8tZ3DfMjTtZdMCUZBJ?usp=sharing)
   - Using colab on your main project: [Colab Notebook](https://colab.research.google.com/drive/1Dx1LxDX-_wvBcw_VVcr368PfOrzJJzai?usp=sharing)
 
----
-
-Each folder (Deep Learning and Machine Learning) is initialized with a separate `README`. Please navigate to the appropriate folder for specific topics.
