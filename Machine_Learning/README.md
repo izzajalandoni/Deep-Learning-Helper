@@ -1,4 +1,4 @@
-# Deep Learning Helper Notes
+# Machine Learning Helper Notes
 
 Follows Dr. Rowel Atienza's [Machine Learning](https://github.com/roatienza/ml) class.
 
