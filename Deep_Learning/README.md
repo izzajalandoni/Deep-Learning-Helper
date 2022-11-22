@@ -14,7 +14,7 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | Timm                  | [Jupyter](Toolkits/timm_demo.ipynb)      |       |
 | HuggingFace           | [Model](Toolkits/huggingface_demo.ipynb) |       |
 |                       | [Dataset](Datasets/dataset_demo.ipynb)   |       |
-| HF Space/Gradio       | [Spaces sample](https://huggingface.co/spaces/izzajalandoni/dialogpt-tagalog) | [Notes](Notes/HuggingFace_Spaces.pdf) |       |
+| HF Space/Gradio       | [Spaces sample](https://huggingface.co/spaces/izzajalandoni/dialogpt-tagalog) | [Notes](../Notes/HuggingFace_Spaces.pdf) |       |
 | Wandb                 | [Jupyter](Toolkits/wandb_demo.ipynb)     |       |
 | <b>Dataloader</b>     | [Jupyter](Datasets/dataloader.ipynb)     |       |
 | <b>Supervised Learning</b>|                                      |       |
