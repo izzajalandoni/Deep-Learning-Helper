@@ -12,4 +12,4 @@ Below is a list of experiments / demos regarding specific topics.
 |:----------------------|:----------------------------------------:|:-----:|
 | <b>Optimization</b>   |                                          |       |
 | Optimizers            | [Jupyter](../Machine_Learning/Optimization/optimization.ipynb) | [Notes](../Notes/Optimization.pdf) |
-| Loss Functions        | [Jupyter](SupervisedLearning/lossfunctions.ipynb)     |       |
+| Loss Functions        | [Jupyter](../Deep_Learning/SupervisedLearning/lossfunctions.ipynb)     |       |
