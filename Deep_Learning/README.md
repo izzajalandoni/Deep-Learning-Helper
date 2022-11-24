@@ -29,11 +29,12 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 |                       | [Filters, FMaps](BuildingBlocks/cnn_features.ipynb) |       |
 | RNN/LSTM              | [Jupyter](BuildingBlocks/rnn_demo.ipynb) |       |
 | Transformers          | [Jupyter](BuildingBlocks/vit_train.ipynb)|       |
-| <b>HW: KWS</b>        | Data: [KWS](https://github.com/roatienza/Deep-Learning-Experiments/blob/master/versions/2022/supervised/python/kws_demo.ipynb),<br>Model: [Transformer](https://github.com/roatienza/Deep-Learning-Experiments/blob/master/versions/2022/transformer/python/transformer_demo.ipynb)<br>Adjust compatibility | [Notes](../Notes/Homework_3.pdf) |
+| <b>HW: KWS</b>        | Data: [KWS](https://github.com/roatienza/Deep-Learning-Experiments/blob/master/versions/2022/supervised/python/kws_demo.ipynb),<br>Model: [Transformer](https://github.com/roatienza/Deep-Learning-Experiments/blob/master/versions/2022/transformer/python/transformer_demo.ipynb)<br>Adjust compatibility | [Notes](../Notes/Homework_KWS.pdf) |
 | <b>Backpropagation</b>| Soon                                     |       |
 | <b>Optimization</b>   |                                          |       |
 | Optimizers            | [Jupyter](../Machine_Learning/Optimization/optimization.ipynb) | [Notes](../Notes/Optimization.pdf) |
 | Loss Functions        | [Jupyter](SupervisedLearning/lossfunctions.ipynb)     |       |
+| <b>HW: AI Assistant</b> | [Model References]() | [Notes](../Notes/Homework_PersonalAI.pdf) |
 | <b>Regularization</b> | Soon                                     |       |
 
 ---
