@@ -34,7 +34,7 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | <b>Optimization</b>   |                                          |       |
 | Optimizers            | [Jupyter](../Machine_Learning/Optimization/optimization.ipynb) | [Notes](../PDFs/Optimization.pdf) |
 | Loss Functions        | [Jupyter](SupervisedLearning/lossfunctions.ipynb)     |       |
-| <b>HW: AI Assistant</b> | [Model References](Misc/PersonalAssistantAI References.ipynb) | [Notes](../PDFs/Homework_PersonalAI.pdf) |
+| <b>HW: AI Assistant</b> | [Model References](Misc/PersonalAssistantAI\ References.ipynb) | [Notes](../PDFs/Homework_PersonalAI.pdf) |
 | <b>Regularization</b> | Soon                                     |       |
 
 ---
