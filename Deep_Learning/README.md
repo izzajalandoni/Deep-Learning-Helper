@@ -30,7 +30,7 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | RNN/LSTM              | [Jupyter](BuildingBlocks/rnn_demo.ipynb) |       |
 | Transformers          | [Jupyter](BuildingBlocks/vit_train.ipynb)|       |
 | <b>HW: KWS</b>        | Data: [KWS](https://github.com/roatienza/Deep-Learning-Experiments/blob/master/versions/2022/supervised/python/kws_demo.ipynb),<br>Model: [Transformer](https://github.com/roatienza/Deep-Learning-Experiments/blob/master/versions/2022/transformer/python/transformer_demo.ipynb)<br>Adjust compatibility | [Notes](../PDFs/Homework_KWS.pdf) |
-| <b>Backpropagation</b>| Soon                                     |       |
+| <b>Backpropagation</b>|                                          | [Exercise](http://cs230.stanford.edu/winter2020/section3_exercises.pdf)|
 | <b>Optimization</b>   |                                          |       |
 | Optimizers            | [Jupyter](../Machine_Learning/Optimization/optimization.ipynb) | [Notes](../PDFs/Optimization.pdf) |
 | Loss Functions        | [Jupyter](SupervisedLearning/lossfunctions.ipynb)     |       |
