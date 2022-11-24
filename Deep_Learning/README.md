@@ -19,7 +19,6 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | <b>Dataloader</b>     | [Jupyter](Datasets/dataloader.ipynb)     |       |
 | <b>Supervised Learning</b>|                                      |       |
 | Pytorch Lightning     | [Jupyter](SupervisedLearning/mlp_lightning_demo.ipynb)|       |
-| Loss Functions        | [Jupyter](SupervisedLearning/lossfunctions.ipynb)     |       |
 | Object Detection      | [Jupyter](SupervisedLearning/object_detection.ipynb)  |       |
 | <b>Online GPUs</b>    |                                          |       |
 | Google Colab          | [Colab](https://colab.research.google.com/drive/1VCg5k-ENTRRJ4ofZGlR1DZhDXqpoyw0V?usp=sharing) |       |
@@ -32,7 +31,9 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | Transformers          | [Jupyter](BuildingBlocks/vit_train.ipynb)|       |
 | <b>HW: KWS</b>        | Data: [KWS](https://github.com/roatienza/Deep-Learning-Experiments/blob/master/versions/2022/supervised/python/kws_demo.ipynb),<br>Model: [Transformer](https://github.com/roatienza/Deep-Learning-Experiments/blob/master/versions/2022/transformer/python/transformer_demo.ipynb)<br>Adjust compatibility | [Notes](../Notes/Homework_3.pdf) |
 | <b>Backpropagation</b>| Soon                                     |       |
-| <b>Optimization</b>   | Soon                                     |       |
+| <b>Optimization</b>   |                                          |       |
+| Optimizers            | [Jupyter](../Machine_Learning/Optimization/optimization.ipynb) | [Notes](../Notes/Optimization.pdf) |
+| Loss Functions        | [Jupyter](SupervisedLearning/lossfunctions.ipynb)     |       |
 | <b>Regularization</b> | Soon                                     |       |
 
 ---
