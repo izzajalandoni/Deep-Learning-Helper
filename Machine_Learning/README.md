@@ -13,4 +13,4 @@ Below is a list of experiments / demos regarding specific topics.
 | <b>Optimization</b>   |                                          |       |
 | Optimizers            | [Jupyter](Optimization/optimization.ipynb)  | [Notes](../PDFs/Optimization.pdf) |
 | Loss Functions        | [Jupyter](Optimization/lossfunctions.ipynb) |       |
-| HW: Polynomial Regression |                                       | [Notes](../PDFs/Homework_ML_PolynomialRegression.pdf)      |
+| **HW: Polynomial Regression** |                                     | [Notes](../PDFs/Homework_ML_PolynomialRegression.pdf)      |
