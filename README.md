@@ -9,7 +9,7 @@ Each folder (Deep Learning and Machine Learning) is initialized with a separate 
 ---
 
 ### General Helper Notes
-**1. Setting up *Anaconda* on Ubuntu/Linux** [[PDF](Notes/Setting-up%20Anaconda%20for%20Ubuntu_Linux.pdf)]
+**1. Setting up *Anaconda* on Ubuntu/Linux** [[PDF](PDFs/Setting-up%20Anaconda%20for%20Ubuntu_Linux.pdf)]
 
 
 **2. Working with *Jupyter Notebook***
@@ -21,7 +21,7 @@ Notebook is a creative way of presenting your project outputs as it allows users
   - Adding virtual environment to jupyter: `python -m ipykernel install --user --name=<env_name>`
   - Run notebook: `jupyter notebook`
 
-**3. Creating your *Hugging Face Space*** [[PDF](Notes/HuggingFace_Spaces.pdf)]
+**3. Creating your *Hugging Face Space*** [[PDF](PDFs/HuggingFace_Spaces.pdf)]
 
 **4. Using *Google Colab***
 
