@@ -11,6 +11,11 @@ Below is a list of experiments / demos regarding specific topics.
 |   <b>Toolkits</b>     |                   Code                   | Notes |
 |:----------------------|:----------------------------------------:|:-----:|
 | <b>Optimization</b>   |                                          |       |
-| Optimizers            | [Jupyter](Optimization/optimization.ipynb)  | [Notes](../PDFs/Optimization.pdf) |
+| Optimizers            | [Viz-Optim](Optimization/optimization.ipynb)  | [Notes](../PDFs/Optimization.pdf) |
+|                       | Gradient Descent  |       |
 | Loss Functions        | [Jupyter](Optimization/lossfunctions.ipynb) |       |
 | **HW: Polynomial Regression** |                                     | [Notes](../PDFs/Homework_ML_PolynomialRegression.pdf)      |
+| <b>Linear Regression</b> |                                          |       |
+| MLE                   | Jupyter                                  |       |
+| MAP                   | Jupyter                                  |       |
+
