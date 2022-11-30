@@ -1,10 +1,10 @@
 **/.ipynb_checkpoints/
+**/lightning_logs/
+**/Experiments/
+**/Homeworks/
 Lecture0-Toolkits/data/
 Lecture0-Toolkits/wandb/
 SupervisedLearning/PennFudanPed/
 SupervisedLearning/models/
 SupervisedLearning/instances_val2017.json
-Deep_Learning/Homeworks
-Machine_Learning/Homeworks
-Machine_Learning/Experiments
 **.pyc
