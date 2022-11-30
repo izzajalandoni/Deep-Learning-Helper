@@ -36,7 +36,7 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | Loss Functions        | [Jupyter](SupervisedLearning/lossfunctions.ipynb)     |       |
 | <b>HW: AI Assistant</b> | [Model References](Misc/PersonalAssistantAI_References.ipynb) | [Notes](../PDFs/Homework_DL_PersonalAI.pdf) |
 | <b>Regularization</b> |                                          |       |
-| <b>Data Augmentation</b> | [Jupyter](Regularization/data_augmentation.ipynb) |       |
+| Data Augmentation     | [Jupyter](Regularization/data_augmentation.ipynb) |       |
 
 ---
 
