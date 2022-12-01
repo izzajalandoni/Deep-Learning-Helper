@@ -8,3 +8,4 @@ SupervisedLearning/PennFudanPed/
 SupervisedLearning/models/
 SupervisedLearning/instances_val2017.json
 **.pyc
+Deep_Learning/Regularization/data/MNIST
