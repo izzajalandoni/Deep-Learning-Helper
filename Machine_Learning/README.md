@@ -8,7 +8,7 @@ Below is a list of experiments / demos regarding specific topics.
 
 **NOTE:** Currently in development. This will be expanded soon.
 
-|   <b>Toolkits</b>     |                   Code                   | Notes |
+|   <b>Topics</b>       |                   Code                   | Notes |
 |:----------------------|:----------------------------------------:|:-----:|
 | <b>Optimization</b>   |                                          |       |
 | Optimizers            | [Viz-Optim](Optimization/Optimization.ipynb)  | [Notes](../PDFs/Optimization.pdf) |
