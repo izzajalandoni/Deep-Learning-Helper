@@ -12,10 +12,12 @@ Below is a list of experiments / demos regarding specific topics.
 |:----------------------|:----------------------------------------:|:-----:|
 | <b>Optimization</b>   |                                          |       |
 | Optimizers            | [Viz-Optim](Optimization/Optimization.ipynb)  | [Notes](../PDFs/Optimization.pdf) |
-|                       | Gradient Descent  |       |
+|                       | [Gradient Descent](Optimization/GradientDescent.ipynb)  |       |
 | Loss Functions        | [Jupyter](Optimization/LossFunctions.ipynb) |       |
 | **HW: Polynomial Regression** |                                     | [Notes](../PDFs/Homework_ML_PolynomialRegression.pdf)      |
+| <b>ML Principles</b>  |                                          |       |
+| KL Divergence         | [Jupyter](MachineLearningPrinciples/KLDivergence.ipynb) |       |
 | <b>Linear Regression</b> |                                          |       |
-| MLE                   | Jupyter                                  |       |
-| MAP                   | Jupyter                                  |       |
+| MLE                   | [Jupyter](MachineLearningPrinciples/MLE.ipynb)     |       |
+| MAP                   | [Jupyter](MachineLearningPrinciples/MLvsMAP.ipynb) |       |
 
