@@ -37,7 +37,7 @@ Below is a list of experiments / demos regarding specific topics, done on Jupyte
 | <b>HW: AI Assistant</b> | [Model References](Misc/PersonalAssistantAI_References.ipynb) | [Notes](../PDFs/Homework_DL_PersonalAI.pdf) |
 | <b>Regularization</b> |                                          |       |
 | Data Augmentation     | [Jupyter](Regularization/data_augmentation.ipynb) |       |
-| ADR     | [Jupyter](Regularization/automatic_domain_regularization.ipynb) |       |
+| ADR     | [Jupyter](Regularization/automatic_domain_randomization.ipynb) |       |
 | Dropout     | [Jupyter](Regularization/mlp_dropout.ipynb) |       |
 
 ---
