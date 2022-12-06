@@ -20,4 +20,7 @@ Below is a list of experiments / demos regarding specific topics.
 | <b>Linear Regression</b> |                                          |       |
 | MLE                   | [Jupyter](MachineLearningPrinciples/MLE.ipynb)     |       |
 | MAP                   | [Jupyter](MachineLearningPrinciples/MLvsMAP.ipynb) |       |
-
+| <b>PCA</b>            | [Jupyter](PrincipalComponentAnalysis/PCA.ipynb)    |       |
+| <b>GaussianMixtures</b> |                                          |       |
+| GMM                   | [Jupyter](GaussianMixtureModels/GMM.ipynb) |       |
+| LVM                   | [Jupyter](GaussianMixtureModels/LVM.ipynb) |       |
